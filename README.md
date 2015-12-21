@@ -19,8 +19,8 @@ A simple bioshock in game menu hack for all versions of the game
 
 <h4>CREDITS:</h4>
 
-αlphaMΛTTΞR (Coded + Found Feature)
-Mack (Found Features)
+- αlphaMΛTTΞR (Coded + Found Feature)
+- Mack (Found Features)
 
 <h4>NOTE:</h4>
 
