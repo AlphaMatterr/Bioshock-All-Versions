@@ -1,0 +1,9 @@
+Package: com.alphaMack.bioshock
+Name: Bioshock All Versions In Game Menu
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alphaMatter and Mack
+Author: alphaMatter and Mack
+Section: Tweaks

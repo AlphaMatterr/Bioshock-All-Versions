@@ -1,0 +1,5 @@
+AAIWeapon::CanHitTarget
+AWeapon::CanHit + UMeleeDamagefactory::CanHit
+UMeleeDamagefactory::InitiateDamage lets you change the have a full FOV attack angle
+0x1aa6a00 - .ini symbol locations
+ex SHOCKGAME_GetAttackRange is at 0x1aa6a48

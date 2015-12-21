@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kContainers</key>
+	<true/>
+	<key>kInfinADAM</key>
+	<false/>
+	<key>kInfinCreds</key>
+	<false/>
+	<key>kInfinMana</key>
+	<true/>
+	<key>kInstaKill</key>
+	<false/>
+	<key>kInstantHack</key>
+	<true/>
+	<key>kInvincible</key>
+	<false/>
+	<key>kNoMachinesAttk</key>
+	<true/>
+	<key>kPlasmidSlots</key>
+	<true/>
+	<key>kPlayerFly</key>
+	<false/>
+	<key>kPlayerItems</key>
+	<true/>
+	<key>kSpeedHack</key>
+	<false/>
+	<key>kTelekinesis</key>
+	<true/>
+</dict>
+</plist>
